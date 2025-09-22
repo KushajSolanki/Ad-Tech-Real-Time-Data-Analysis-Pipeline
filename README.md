@@ -5,7 +5,7 @@ This project implements a real-time **Ad Tech Streaming Pipeline** using **PyFli
 
 The architecture ensures scalable, fault-tolerant, and event-time aware processing for high-throughput ad tech workloads.
 
-![Architecture Diagram](diagrams/ad_tech.png)
+![Architecture Diagram](Ad_tech.png)
 
 ---
 
